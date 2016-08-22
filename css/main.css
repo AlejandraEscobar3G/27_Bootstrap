@@ -1,0 +1,46 @@
+/*Header*/
+.mt{
+	margin-top: 4%;
+}
+nav>ul{
+	background-color: silver;
+	padding-top: 3%;
+}
+		/*Section*/
+h3{
+	background-color: #9C9B9A;
+	padding: 1%;
+	color: white;
+	display: inline-block;
+}
+article{
+	padding-bottom: 3%;
+	border-bottom: 2px solid silver;
+}
+	/*Row 2*/			
+#p{
+	padding: 1% 4%;
+	background-color: black;
+	color: white;
+	display: inline-block;
+}
+		/*Columna 2: video*/
+.fondo{
+	background-color: silver; 
+}
+.altura{
+	font-size: 250%;
+}
+		/*Aside*/
+li{
+	list-style: none;
+}
+.pd{
+	padding: 1% 3%;
+}
+		/*Footer*/
+footer{
+	border-top: 5px solid silver;
+	margin: 2% 0%;
+	padding: 2% 3%;
+}
